@@ -55,4 +55,4 @@ Global Superstore Dataset
 
 ## Author
 
-Anh Tran
+Irene Tran
