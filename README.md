@@ -8,7 +8,7 @@ This project presents an interactive Tableau dashboard built using the Global Su
 
 ## Dashboard Preview
 
-![Dashboard](dash board.png)
+![Dashboard](sales dashboard .png)
 
 ---
 
